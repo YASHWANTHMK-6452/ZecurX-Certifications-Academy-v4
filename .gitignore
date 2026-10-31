@@ -1,0 +1,22 @@
+node_modules/
+dist/
+build/
+.cache/
+.vercel/
+.env*
+!.env.example
+vite.config.*.timestamp-*
+*.tsbuildinfo
+*-debug.log*
+logs/
+*.log
+*.zip
+.claude-replay.*
+.tmp-*
+.DS_Store
+Thumbs.db
+/.figma/design-context/
+
+# Platform-managed agent state, not project source.
+/.plugins/
+/.opencode-skills/

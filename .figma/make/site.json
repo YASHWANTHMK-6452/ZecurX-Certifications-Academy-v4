@@ -1,0 +1,15 @@
+{
+  "title": "ZecurX Certifications and Academy | Cybersecurity Certification Courses",
+  "description": "Offers an engaging cybersecurity learning platform with certified courses, interactive visuals, and clear pathways to skill development and career readiness.",
+  "language": "en",
+  "robots": {
+    "index": true
+  },
+  "icons": {
+    "icon": "/favicon.svg"
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
